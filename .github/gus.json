@@ -1,1 +1,7 @@
-{ }
+{ 
+  "labels": {
+    "user_story": "feature",
+    "bug": "bug",
+    "investigation": "investigation"
+  }
+}
